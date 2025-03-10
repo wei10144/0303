@@ -42,8 +42,8 @@ function handleDropdownChange() {
     iframe.attribute('src', 'https://www.tku.edu.tw/');
   } else if (selected === '教科系') {
     iframe.attribute('src', 'https://www.et.tku.edu.tw/');
-  } else if (selected === '筆記') {
-    iframe.attribute('src', 'https://hackmd.io/I0JbKO7lTnqIZCHPfxL7bA');
+  } else if (selected === '測驗卷') {
+    iframe.attribute('src', 'https://wei10144.github.io/0310/');
   }
 }
 
