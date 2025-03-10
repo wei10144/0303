@@ -25,7 +25,7 @@ function setup() {
     dropdown.size(200, 30);
   dropdown.option('淡江大學');
   dropdown.option('教科系');
-  dropdown.option('筆記');
+  dropdown.option('測驗卷');
   
   dropdown.changed(handleDropdownChange);
   
